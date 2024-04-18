@@ -28,6 +28,7 @@ With a complete audio education in each language available we believe we can hel
 Additionally, the education initiative is sponsoring 1 report from each of the 15 school worldwide once a year from 2024/2025 until 2039/2040.
 Our goal is to provide the funding for a report, paper, or project by the students which will form a significant portion of a public longitudinal study.
 Each year one student from each school will be awarded 100 euro, either the schools or the students will pick the winner, all report will be made available public anonymously.
+
 We do not have all the answers, we suspect that our children either have them or will have them.
 
 ### Income
