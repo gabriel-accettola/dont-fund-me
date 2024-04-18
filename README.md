@@ -44,9 +44,9 @@ Engage local communities and the public schools nearest each location to help ex
 | Location      | City      | Land agreements     | Board members |
 |---------------|-----------|---------------------|---------------|
 | Africa        | tba       | Active / Q4 2024    | Adama         |
-| Europe        | Haarlem   | Active / Q3 2024    | Nandini       |
 | India         | Chennai   | Ready               | Venky         |
 | Indonesia     | Pejeng    | Active / Q2 2024    | Nyoman        |
+| Europe        | Haarlem   | Active / Q3 2024    | Nandini       |
 | North America | tba       | Pending / Q1 2025   | Anna          |
 
 ### Details
