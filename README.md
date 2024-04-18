@@ -15,6 +15,7 @@ Our organisation has three main area of interest,
 ### Housing
 In the housing initiative our goal is the ability for anyone, anywhere, to be able to build a home that by today's
 standards would be considered the kind of home only the very wealthy are able to afford using only natural, sustainable, materials.
+
 This year we are focusing on a hybrid technique using 'Nebraska straw bale construction', rice, and 'construction grade bamboo'
 
 ### Education
