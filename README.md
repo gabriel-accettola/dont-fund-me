@@ -35,7 +35,7 @@ Sustainable reoccurring month income is a difficult for most of the world while 
 people can use their existing low power and older devices to earn a small reoccurring income yet the knowledge of these systems appears to be missing except for in dense population center.
 Low power and relatively inexpensive computers, similar to raspberry pi, are quite capable of being put to use to help families and villages earn passive income.
 
-### Current plan.
+### Current plan
 Establish long term rental/lease contracts, build and practice building multifamily / multi-generation homes.
 Engage local communities and the public schools nearest each location to help extend existing solution as available.
 
@@ -47,7 +47,7 @@ Engage local communities and the public schools nearest each location to help ex
 | Indonesia     | Pejeng    | Active / Q2 2024    | Nyoman        |
 | North America | tba       | Pending / Q1 2025   | Anna          |
 
-### Details,
+### Details
 On a 25-meter by 25-meter plot of land,
 - How could you build a home with little to no cost?
 - How could you plan and build 4 homes on that same plot?
