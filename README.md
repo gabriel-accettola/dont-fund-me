@@ -1,4 +1,4 @@
-# dont-fund-me
+# dont fund me / dont fund this
 
 We are committed to developing sustainable solutions using free open source software in 
 - Africa
