@@ -1,13 +1,11 @@
 # dont fund me / dont fund this
 
-We are committed to developing sustainable solutions using free open source software in 
+We are committed to developing sustainable solutions using free open source software along with one local middle school, one high school, and one college in
 - Africa
 - India 
 - Indonesia 
 - Europe 
 - North America
-
-along with one local middle school, one high school and one college in each location.
 
 Our organisation has three main area of interest,
 1. Housing
