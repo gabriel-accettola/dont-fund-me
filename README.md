@@ -40,7 +40,7 @@ Low power and relatively inexpensive computers, similar to raspberry pi, are qui
 Establish long term rental/lease contracts, build and practice building multifamily / multi-generation homes.
 Engage local communities and the public schools nearest each location to help extend existing solution as available.
 
-| Location      | City      | Land agreements     | Board members |
+| Location      | City      | Land agreement      | Board member  |
 |---------------|-----------|---------------------|---------------|
 | Africa        | tba       | Active / Q4 2024    | Adama         |
 | India         | Chennai   | Ready               | Venky         |
