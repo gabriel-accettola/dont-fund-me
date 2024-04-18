@@ -5,7 +5,8 @@ We are committed to developing sustainable solutions using free open source soft
 - India 
 - Indonesia 
 - Europe 
-- North America 
+- North America
+
 along with one local middle school, one high school and one college in each location.
 
 Our organisation has three main area of interest,
