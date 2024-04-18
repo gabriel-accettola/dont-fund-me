@@ -65,4 +65,5 @@ On a 25-meter by 25-meter plot of land,
 
 ### Funding
 We are fully funded.  If you would like to help please consider giving to a local charity, or maybe Unicef.
+
 Our NGO application is pending in the Netherlands and is expected to be complete Q2 2024.
