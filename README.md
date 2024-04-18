@@ -1,6 +1,6 @@
 # dont fund me / dont fund this
 
-We are committed to developing sustainable solutions using free open source software along with one local middle school, one high school, and one college in
+We are committed to developing sustainable solutions using free open source software along with one local middle school, one high school, and one college in,
 - Africa
 - India 
 - Indonesia 
