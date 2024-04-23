@@ -59,7 +59,7 @@ On a 25-meter by 25-meter plot of land,
 - Grow or purchase rice or wheat straw to be used in Nebraska style bale construction for both it's load bearing and insulation properties.
 - A small solar cell to power a small water pump to push water into a series charcoal barrels, then a small heater, then onto a rooftop storage tank.
 - An older commodity phone with the smallest sharable internet contract available
-- Low cost commodity hardware, raspberry pi 5, to running compute for a cloud provider.
+- Low cost commodity hardware to run compute for a cloud provider.
 - no steel, as little as possible
 - no cement, as little as possible
 - no batteries, as few as possible       
