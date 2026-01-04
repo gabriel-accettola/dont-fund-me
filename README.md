@@ -29,24 +29,29 @@ Additionally, the education initiative is sponsoring 1 report from each of the 1
 Our goal is to provide the funding for a report, paper, or project by the students which will form a significant portion of a public longitudinal study.
 Each year one student from each school will be awarded 100 euro, either the schools or the students will pick the winner, all report will be made available public anonymously.
 
-We do not have all the answers, we suspect that our children either have them or will have them.
+i dont have almost any of this figured out
+but i bet kids could if we give them time
 
-### Income
+income
+reevaluate the lower edge commpute options like golem.  
+if houses and education then internet costs, 
+they exist, they might already be esp32-ish devices or
+i dunno. help make those things exist for last mile first 
+
 In the income initiative our goal is to create, or assist with the creation of, an end to end system which allows for families to be paid for their available solar and compute.
 Sustainable reoccurring month income is a difficulty for most of the world while the demand for power and compute is rising dramatically. 
 There are already systems in place where people can use their existing low power and older devices to earn a small reoccurring income.  
 Awareness of these systems appears to be missing except for in dense population centers.
 
-### Current plan
 Establish long term rental/lease contracts, build and practice building multifamily / multi-generation homes.
 Engage local communities and the public schools nearest each location to help extend existing solution as available.
 
-### Over ~15 years, if school children could be asked 2 questions ( same school for about the length of a childhood )
-On a 25-meter by 25-meter plot of land,
+over ~15 years, if school children could be asked 2 questions ( same school for about the length of a childhood )
+on a 25-meter by 25-meter plot of land,
 - How would you build 1 home with more or less what you are standing on?
 - How could you , 2 years later, rebuild it into 4 homes?
 
-### thoughts
+thoughts
 - could it be pushed it over or burnt it down (up?)
 - or feed it to livestock
 - or re-mix it more or less
