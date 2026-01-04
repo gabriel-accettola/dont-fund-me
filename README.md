@@ -41,30 +41,19 @@ Awareness of these systems appears to be missing except for in dense population 
 Establish long term rental/lease contracts, build and practice building multifamily / multi-generation homes.
 Engage local communities and the public schools nearest each location to help extend existing solution as available.
 
-| Location      | City      | Launch              |
-|---------------|-----------|---------------------|
-| Africa        | tba       | Active  / Q4 2024   |
-| India         | Chennai   | Ready               |
-| Indonesia     | Pejeng    | Active  / Q2 2024   |
-| Europe        | Haarlem   | Active  / Q3 2024   |
-| North America | tba       | Pending / Q1 2025   |
-
-### Details
+### Over ~15 years, if school children could be asked 2 questions ( same school for about the length of a childhood )
 On a 25-meter by 25-meter plot of land,
-- How could you build a home with little to no cost?
-- How could you plan and build 4 homes on that same plot?
+- How would you build 1 home with more or less what you are standing on?
+- How could you , 2 years later, rebuild it into 4 homes?
 
-### Current direction
-- Plant a series of construction grade bamboo plants that will both grow into the house design and be used in place of traditional wood for flooring and for water purification using bamboo charcoal.
-- Grow or purchase rice or wheat straw to be used in Nebraska style bale construction for both it's load bearing and insulation properties.
-- A small solar cell to power a small water pump to push water into a series charcoal barrels, then a small heater, then onto a rooftop storage tank.
-- An older commodity phone with the smallest sharable internet contract available
-- Low cost commodity hardware to run compute for a cloud provider.
-- no steel, as little as possible
-- no cement, as little as possible
-- no batteries, as few as possible       
+### thoughts
+- could it be pushed it over or burnt it down (up?)
+- or feed it to livestock
+- or re-mix it more or less
+- and still be able to
+- grow enough food to starve slower
+- walk barefoot
+- plant seeds     
 
 ### Funding
-We are fully funded.  If you would like to help please consider giving to Amnesty International.
-
-Our NGO application is pending in the Netherlands and is expected to be complete Q2 2024.
+If you would like to help please consider giving to Amnesty International, or a neighbor?
